@@ -1,0 +1,8 @@
+Problem definition :
+
+Retrieval of clothing categories from a silhoutte along with color.
+
+Methods : 
+1. post estimation - segmentation - classification
+2. R-CNN
+3. CNN - inception
