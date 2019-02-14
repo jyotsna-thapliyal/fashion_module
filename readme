@@ -1,0 +1,4 @@
+This is an exploratory analysis of the fashion module in the instore AI inference engine.
+Fashion module is supposed to get an input of an image of a customer walking in a store, and it should output the fashion description of the person. This semantic description can be used as an input to various other usecases, eg. Fashion trend analysis, store inventory management, fashion forecasting, customer fashion profiling, fashion recommendation, etc.
+
+This task is subdivided into basic computer vision problems, organized in different directories.
